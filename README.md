@@ -1,3 +1,3 @@
 # 123
-learning
+public static
 hello 
